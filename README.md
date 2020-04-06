@@ -1,2 +1,2 @@
-# ArrayDebouncer
-Library for debouncing byte arrays of switches.
+# MultiBitDebouncer
+Library for debouncing arbitrary number of bits.

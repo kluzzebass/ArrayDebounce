@@ -1,0 +1,10 @@
+# Syntax Coloring Map For MultiBitDebouncer
+
+# Datatypes (KEYWORD1)
+
+# Methods and Functions (KEYWORD2)
+
+# Structures (KEYWORD3)
+MultiBitDebouncer KEYWORD3
+
+# Constants (LITERAL1)
